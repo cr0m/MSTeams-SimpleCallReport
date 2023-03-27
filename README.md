@@ -1,4 +1,4 @@
-# MSTeams-CallSimpleReport
+# MSTeams-SimpleCallReport
 Tallys up total calls per day from orig CSV from Microsoft Teams admin center PTSN Usage Report
 
 Example:
