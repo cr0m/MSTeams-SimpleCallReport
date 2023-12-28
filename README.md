@@ -3,7 +3,7 @@ Tallys up total calls per day from orig CSV from Microsoft Teams admin center PT
 
 Example:
 
-![Short Example](img/ShortSnippt.png)
+![Short Example](img/Snag_4fc08f96.png)
 
 Usage: Provide CSV as argument or just run it and it will present a selectable list of CSVs if there are more than one
 
