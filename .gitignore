@@ -1,2 +1,6 @@
-# Ignore all .csv files
-*.csv
+# Ignore everything
+*
+
+# But whitelist .txt and .md files
+!*.py
+!*.md
